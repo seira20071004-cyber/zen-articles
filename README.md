@@ -26,5 +26,5 @@ npx zenn preview
 ```
 ### 2. 記事の新規作成
 ```bash
-npx zenn new:article
+npx zenn-cli new:article
 ```
