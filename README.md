@@ -22,7 +22,7 @@
 
 ### 1. ローカルプレビュー
 ```bash
-npx zenn preview
+npx zenn-cli preview
 ```
 ### 2. 記事の新規作成
 ```bash
