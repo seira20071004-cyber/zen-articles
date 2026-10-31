@@ -1,9 +1,9 @@
 ---
-title: "マークダウンの書き方まとめ（下書き）"
+title: "これさえ見ればOK！マークダウン（Markdown）基本的な書き方"
 emoji: "📝"
 type: "tech"
 topics: ["markdown"]
-published: false
+published: True
 ---
 
 こんにちは！文章の構造化や装飾を手軽に行える軽量マークアップ言語「マークダウン（Markdown）」。
