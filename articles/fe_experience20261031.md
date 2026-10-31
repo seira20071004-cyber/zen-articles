@@ -3,7 +3,7 @@ title: "[合格体験記]大学1年生で過去問道場とAIで基本情報技�
 emoji: "📝"
 type: "idea"
 topics: ["基本情報技術者試験"]
-published: false
+published: True
 ---
 
 # ２０２６ 年 ５ 月、基本情報技術者試験に合格しました！
